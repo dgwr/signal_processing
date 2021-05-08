@@ -1,6 +1,11 @@
 使用matlab实现美颜功能————双边滤波器
 
-原博链接：https://blog.csdn.net/qq_45083791/article/details/105523919
+原博链接： https://blog.csdn.net/qq_45083791/article/details/105523919
 代码中图片出处：http://img.yao51.com/jiankangtuku/srcauhtx.jpeg
+fspecial函数：https://blog.csdn.net/sylviasoul/article/details/88321017
+
+双边滤波器原理：矩阵中一个点滤波后的像素值由他邻域内的像素点决定，邻域内像素点对该值影响的权重取决于两个像素点的距离和相似度。
+
+
 
  
